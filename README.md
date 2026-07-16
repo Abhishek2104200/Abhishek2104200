@@ -55,18 +55,18 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sukheshkanna13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Abhishek2104200&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
   </a>
   
   <br/>
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukheshkanna13&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek2104200&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
   <br/>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Sukheshkanna13&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek2104200&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
